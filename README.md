@@ -36,7 +36,7 @@
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,threejs,git,github,vercel,vscode&theme=dark" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,nodejs,threejs,git,github,vercel,vscode&theme=dark" alt="Tecnologias">
 </p>
 
 ## Como eu trabalho
