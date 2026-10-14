@@ -26,8 +26,8 @@
       <code>Vite</code> <code>JavaScript</code> <code>Three.js</code> <code>GSAP</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/carloseduardoprof17-design/site-dra-fernanda">Site de consultório odontológico</a></h3>
-      Site de 6 páginas com cena 3D em WebGL2 guiada pelo scroll. <a href="https://site-dra-fernanda-blond.vercel.app">Ver ao vivo</a>.<br><br>
+      <h3><a href="https://site-dra-fernanda-blond.vercel.app">Site de consultório odontológico</a></h3>
+      Site de 6 páginas com cena 3D em WebGL2 guiada pelo scroll.<br><br>
       <code>Vite</code> <code>JavaScript</code> <code>GSAP</code> <code>WebGL2</code>
     </td>
   </tr>
