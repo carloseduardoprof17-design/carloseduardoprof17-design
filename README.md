@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="foto.webp" width="220" alt="Foto de Carlos Eduardo Santiago">
-</p>
-
 <h1 align="center">Carlos Eduardo Santiago</h1>
 
 <p align="center">
